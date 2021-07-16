@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevkumarprajapati" alt="sanjeevkumarprajapati" /></a> </p>
 
-- 🔭 I’m currently working on [My Personal Jarvis Assistant](https://github.com/SanjeevKumarPrajapati/Jarvis-My-Assistant)
+- 🔭 I’m currently working on [GUI Application](https://github.com/SanjeevKumarPrajapati/Jarvis-My-Assistant)
 
 - 🌱 I’m currently learning **Artificial Intelligence And Machine Learning ,Deep Learning , GUI Applications**
 
