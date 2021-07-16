@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @SanjeevKumarPrajapati
+
 - 👀 I’m interested in Artificial intelligence and Machine Learning
 - 🌱 I’m currently learning Python, Machine Learning,Deep Learning
 - 📫 How to reach me sp6406919@gmail.com
