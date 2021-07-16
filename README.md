@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SanjeevKumarPrajapati
 - 👀 I’m interested in Artificial intelligence and Machine Learning
 - 🌱 I’m currently learning Python, Machine Learning,Deep Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sp6406919@gmail.com
 
 <!---
 SanjeevKumarPrajapati/SanjeevKumarPrajapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
