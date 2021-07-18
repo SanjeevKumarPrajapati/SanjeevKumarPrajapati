@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevkumarprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevkumarprajapati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevkumarprajapati" alt="sanjeevkumarprajapati" /></a> </p>
+/*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeevkumarprajapati" alt="sanjeevkumarprajapati" /></a> </p>*/
 
 - 🔭 I’m currently working on [GUI Application](https://github.com/SanjeevKumarPrajapati/Jarvis-My-Assistant)
 
 - 🌱 I’m currently learning **Artificial Intelligence And Machine Learning ,Deep Learning , GUI Applications**
 
 - 📝 I regularly write poetry on [https://www.blogger.com/blog/posts/2338553263781947](https://www.blogger.com/blog/posts/2338553263781947)
+- 👨‍💻 All of my projects are available at [https://sanjeevkprajapati.weebly.com/](https://sanjeevkprajapati.weebly.com/)
 
 - 📫 How to reach me **sp6406919@gmail.com**
 
