@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Artificial Intelligence And Machine Learning ,Deep Learning , GUI Applications**
 
 - 📝 I regularly write poetry on [https://www.blogger.com/blog/posts/2338553263781947](https://www.blogger.com/blog/posts/2338553263781947)
-- 👨‍💻 All of my projects are available at [https://erskprajapati.weebly.com/](https://sanjeevkprajapati.weebly.com/)
+- 👨‍💻 All of my projects are available at [https:/erskprajapati.weebly.com/](https://sanjeevkprajapati.weebly.com/)
 
 - 📫 How to reach me **sp6406919@gmail.com**
 
