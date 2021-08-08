@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence And Machine Learning ,Deep Learning , GUI Applications**
 
-- 📝 I regularly write poetry on [https://ektarfamahobbat.blogspot.com/](https://ektarfamahobbat.blogspot.com/)
+- 📝 I regularly write poetry on [https://skprajapatipoetry.blogspot.com/](https://skprajapatipoetry.blogspot.com/)
 - 👨‍💻 All of my projects are available at [https://erskprajapati.weebly.com/](https://erskprajapati.weebly.com/)
 
 - 📫 How to reach me **sp6406919@gmail.com**
