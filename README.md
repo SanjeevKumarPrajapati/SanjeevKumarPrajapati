@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Prajapati</h1>
 <h3 align="center">Python Developer | Xebia Campus Ambassador | Recently working on GUI Applications | Front End Web Developer | Programmer | Data Science | Hungry Learner | Machine Learning Intern at CDE | Campus Ambassador at cvDragon | HR Coordinator at Career Dreams Educations </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevkumarprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevkumarprajapati" /> </p>
-<img align="right" alt="GIF" src="https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" width="310px" border-radius="50px" />
 
 - 🔭 I’m currently working on [GUI Application](https://github.com/SanjeevKumarPrajapati/Jarvis-My-Assistant)
 
@@ -11,6 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://erskprajapati.weebly.com/](https://erskprajapati.weebly.com/)
 
 - 📫 How to reach me **sp6406919@gmail.com**
+- <img align="right" alt="GIF" src="https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" width="310px" border-radius="50px" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjeev-kumar-prajapati-bb50431b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjeev-kumar-prajapati-bb50431b3/" height="30" width="40" /></a>
