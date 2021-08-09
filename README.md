@@ -10,7 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://erskprajapati.weebly.com/](https://erskprajapati.weebly.com/)
 
 - 📫 How to reach me **sp6406919@gmail.com**
-- <img align="right" alt="GIF" src="https://miro.medium.com/max/1400/1*TlbU0F-waQf7_zOfhUNldQ.gif" width="310px" border-radius="50px" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjeev-kumar-prajapati-bb50431b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjeev-kumar-prajapati-bb50431b3/" height="30" width="40" /></a>
