@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Prajapati</h1>
 <h3 align="center">Python Developer | Xebia Campus Ambassador | Recently working on GUI Applications | Front End Web Developer | Programmer | Data Science | Hungry Learner | Machine Learning Intern at CDE | Campus Ambassador at cvDragon | HR Coordinator at Career Dreams Educations </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevkumarprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevkumarprajapati" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=sanjeevkumarprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevkumarprajapati"/></p>
 - 🔭 I’m currently working on [GUI Application](https://github.com/SanjeevKumarPrajapati/Jarvis-My-Assistant)
 
 - 🌱 I’m currently learning **Artificial Intelligence And Machine Learning ,Deep Learning , GUI Applications**
