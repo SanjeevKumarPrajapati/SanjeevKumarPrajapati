@@ -13,9 +13,8 @@
 
 - 📝 I regularly write poetry on [https://www.blogger.com/blog/posts/2338553263781947](https://www.blogger.com/blog/posts/2338553263781947)
 
- -💬 Ask me about **Python , Machine Learning**
-
 - 📫 How to reach me **sp6406919@gmail.com**
+- 📫 Ask me about **Python , Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
