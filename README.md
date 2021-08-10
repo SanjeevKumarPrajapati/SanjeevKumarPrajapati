@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [My Personal Jarvis Assistant](https://github.com/SanjeevKumarPrajapati/Jarvis-My-Assistant)
+- 🔭 I’m currently working on **Python GUI Application**
 
 - 🌱 I’m currently learning **Artificial Intelligence And Machine Learning ,Deep Learning , GUI Applications**
 
