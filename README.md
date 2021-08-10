@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://erskprajapati.weebly.com/](https://erskprajapati.weebly.com/)
 
 - 📝 I regularly write poetry on [https://www.blogger.com/blog/posts/2338553263781947](https://www.blogger.com/blog/posts/2338553263781947)
+- - 💬 Ask me about **Python , Machine Learning**
 
 - 📫 How to reach me **sp6406919@gmail.com**
 
