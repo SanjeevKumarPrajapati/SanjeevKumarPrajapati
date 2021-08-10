@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevkumarprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevkumarprajapati" /> </p>
 
-<img align="right" alt="GIF" src="https://youtu.be/Cx5aNwnZYDc" width="310px" border-radius="50px" />
+<img align="right" alt="VIDEO" src="https://youtu.be/Cx5aNwnZYDc" width="310px" border-radius="50px" />
 
 - 🔭 I’m currently working on **Python GUI Application**
 
