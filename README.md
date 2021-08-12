@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Prajapati</h1>
-<h3 align="center">Python Developer | Xebia Campus Ambassador | Recently working on GUI Applications | Front End Web Developer | Programmer | Data Science | Hungry Learner | Machine Learning Intern at CDE | Campus Ambassador at cvDragon | HR Coordinator at Career Dreams Educations</h3>
+<h3 align="center">Python Developer | Xebia Campus Ambassador | Recently working on GUI Applications | Front End Web Developer | Programmer | Data Science | Hungry Learner | Machine Learning Intern at CDE | Campus Ambassador at cvDragon | HR Coordinator at Career Dreams Educations |Data
+Science and Business Analytics Engineer at The Spark Foundation | Intern at Techsnap as a Python Blogger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeevkumarprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeevkumarprajapati" /> </p>
 
