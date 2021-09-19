@@ -13,7 +13,7 @@
 
 - 📝 I regularly write poetry on [https://skprajapatipoetry.blogspot.com/](https://skprajapatipoetry.blogspot.com/)
 
-- 📫 How to reach me **sp6406919@gmail.com**
+- 📫 How to reach me **imsanjeevkumar.prajapati@gmail.com**
 - 📫 Ask me about **Python , Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
